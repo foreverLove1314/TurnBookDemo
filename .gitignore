@@ -81,6 +81,7 @@ dist
 .idea
 .editorconfig
 .history
+.vscode
 
 # Service worker
 sw.*
